@@ -24,6 +24,7 @@
   "dependencies": {
     "dotenv": "^10.0.0",
     "dotenv-webpack": "^7.0.3",
+    "external-remotes-plugin": "^1.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
